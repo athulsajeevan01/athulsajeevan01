@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advanced Python techniques and data engineering concepts.
 - 👯 I’m looking to collaborate on data analytics and data engineering projects.
 - 🤔 I’m looking for help with developing data pipelines and cloud technologies.
-- 💬 Ask me about python, SQL and Power BI
+- 💬 Ask me about Python, SQL and Power BI
 - 📫 How to reach me: athulsajeevan01@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am a football enthusiast and I enjoy driving.
